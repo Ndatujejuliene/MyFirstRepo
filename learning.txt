@@ -1,0 +1,1 @@
+In this course, I have learned how to use Git and GitHub for version control. I now understand how to create repositories, make commits, work with branches, and collaborate using pull requests. These skills are essential for teamwork and professional software or project development.
